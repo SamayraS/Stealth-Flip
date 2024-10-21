@@ -1,5 +1,5 @@
 # Stealth-Flip : Advanced Steganography Tool with Encryption
-# Steath-Flip is an advanced steganography tool that allows you to hide files inside images using pixel manipulation. It also provides an additional layer of encryption using AES-256 for secure data hiding and extraction. The image is altered in a way that it remains visually unchanged to the human eye but contains secret information.
+Steath-Flip is an advanced steganography tool that allows you to hide files inside images using pixel manipulation. It also provides an additional layer of encryption using AES-256 for secure data hiding and extraction. The image is altered in a way that it remains visually unchanged to the human eye but contains secret information.
 
 ## Features
 - Hide any file inside PNG, BMP, TIFF, or TGA images.
